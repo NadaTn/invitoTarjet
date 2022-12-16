@@ -1,5 +1,5 @@
 
-obtenerNombre= prompt ("Hola soy Amaia nesecito tu nombre para seguir")
+obtenerNombre= prompt ("Hola soy Amaia escribe tu nombre para seguir")
 let nombre = obtenerNombre;
 
 let htmlCode = ` <h2>${nombre}</h2>
